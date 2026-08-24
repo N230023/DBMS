@@ -85,7 +85,7 @@ SELECT *FROM Categories;
 SELECT * FROM Apps;
 DESC Apps;
 
--- level1
+-- LEVEL1
 -- 1
 INSERT INTO Developers
 VALUES
