@@ -86,6 +86,7 @@ SELECT * FROM Apps;
 DESC Apps;
 
 -- LEVEL1
+
 -- 1
 INSERT INTO Developers
 VALUES
@@ -104,6 +105,7 @@ UPDATE Apps SET Rating = 4.5 WHERE AppID=1008;
 DELETE FROM Developers WHERE DeveloperID=105;
 
 -- LEVEL2
+
 -- 1
 UPDATE Publishers SET SupportEmail='support@samsunggalaxy.com' WHERE PublisherID=202;
 -- 2
